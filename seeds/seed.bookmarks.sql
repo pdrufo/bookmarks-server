@@ -1,4 +1,3 @@
-
 INSERT INTO bookmarks (title, url, rating, description)
 VALUES
   ('Thinkful', 'https://www.thinkful.com', '5', 'Think outside the classroom'),
